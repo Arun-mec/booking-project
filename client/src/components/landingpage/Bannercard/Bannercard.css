@@ -1,14 +1,18 @@
 .banner-card {
-    animation-duration: 0.5s;
+    animation-duration: 0.8s;
     animation-name: slidein;
 }
 
 @keyframes slidein {
-    from {
-        margin-left: 50%;
+    0% {
+        margin-left: 25%;
     }
 
-    to {
+    50% {
+        margin-left: -2%;
+    }
+
+    100% {
         margin-left: 0%;
     }
 }

@@ -32,6 +32,7 @@ module.exports = {
     },
     backgroundImage:{
       'resortimage':"url('/src/images/resortimage.jpg')",
+      'adimage':"url('/src/images/ad-image.jpg')"
     }   
 
   },

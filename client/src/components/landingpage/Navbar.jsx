@@ -24,7 +24,7 @@ const Navbar = () => {
       <div>
         <div
           className="login-button my-3 py-2 px-8 border-[1px] text-base text-white font-medium border-white cursor-pointer 
-          hover:bg-primary hover:text-white hover:border-primary" >
+          hover:bg-primary hover:text-white hover:border-primary hover:duration-500" >
           <span>Sign in</span>
         </div>
       </div>
