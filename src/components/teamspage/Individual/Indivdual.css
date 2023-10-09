@@ -1,0 +1,14 @@
+.exprt-name{
+    animation-name: nameanimation;
+    animation-duration: 1s;
+}
+
+
+@keyframes nameanimation {
+    to {
+        padding-bottom: 6%;
+    }
+    from {
+        padding-bottom: 50%;
+    }
+}
